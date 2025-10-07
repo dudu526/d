@@ -1,0 +1,34 @@
+{"spider":"./lib/tt.jar",
+"sites":[
+{"key":"1","name":"🏆玉女心经-零壹","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"2","name":"🏆玉女心经-零贰","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"3","name":"🏆玉女心经-零叁","type":1,"api":"https://xxavs.com/api.php/provide/vod/","searchable":1,"recordable":0},
+{"key":"4","name":"🏆玉女心经-零肆","type":1,"api":"https://8day.icu/api.php/provide/vod/","searchable":1,"recordable":0},
+{"key":"5","name":"🏆玉女心经-零伍","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"6","name":"🏆玉女心经-零陆","type":4,"api":"https://json.doube.eu.org/app/index.php?site=dbmadou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
+{"key":"7","name":"🏆玉女心经-零柒","type":4,"api":"https://json.doube.eu.org/madou.php","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
+{"key":"8","name":"🏆玉女心经-零捌","type":4,"api":"https://py.doube.eu.org/spider?site=BadNews","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
+{"key":"9","name":"🏆玉女心经-零玖","type":0,"api":"https://155api.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
+{"key":"10","name":"🏆玉女心经-壹零","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"./lib/182.jar"},
+{"key":"11","name":"🏆玉女心经-壹壹","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+{"key":"12","name":"🏆玉女心经-壹贰","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
+{"key":"13","name":"🏆玉女心经-壹叁","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"14","name":"🏆玉女心经-壹肆","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"15","name":"🏆玉女心经-壹伍","type":1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
+{"key":"16","name":"🏆玉女心经-壹陆","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"17","name":"🏆玉女心经-壹柒","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"18","name":"🏆玉女心经-壹捌","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"19","name":"🏆玉女心经-壹玖","type":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产自拍","日本无码","日本有码","中文字幕","欧美精品","成人动漫","日本素人","高清名优","三级伦理","网红主播","映画传媒","人妻熟女","口爆颜射","萝莉少女","SM调教","美乳巨乳","短视频","制服诱惑","女同性爱","AI换脸","多人群交","翹臀美尻","丝袜美腿","精选独家","貧乳小奶","探花系列"]},
+{"key":"20","name":"️🏆玉女心经-贰零","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["亚洲情色","国产主播","国产自拍","无码专区","欧美性爱","熟女人妻","强奸乱伦","巨乳美乳","中文字幕","制服诱惑","女同性恋","卡通动画","视频伦理","少女萝莉","重口色情","人兽性交"],"timeout":60},
+{"key":"21","name":"🏆玉女心经-贰壹","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"22","name":"🏆玉女心经-贰贰","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"23","name":"🏆玉女心经-贰叁","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"24","name":"🏆玉女心经-贰肆","type":0,"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"25","name":"🏆玉女心经-贰伍","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+
+{"key":"26","name":"🏆玉女心经-贰陆","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"27","name":"🏆玉女心经-贰柒","type":1,"api":"https://gayapi.com/api.php/provide/vod","searchable":1,"quickSearch":1}
+]
+
+
+}
